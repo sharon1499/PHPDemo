@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Example Food',
         'pretty_uri' => false,
         'site_url' => 'https://csu-php-demo.herokuapp.com',
         'nav_menu' => [
