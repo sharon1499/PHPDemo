@@ -12,8 +12,8 @@ function config($key = '')
         'pretty_uri' => false,
         'site_url' => 'https://csu-php-demo.herokuapp.com',
         'nav_menu' => [
-            '' => 'Home',
-            'about-game' => 'About Game',
+            'home' => 'Home',
+            'about-me' => 'About me',
             'characters' => 'Characters'
         ],
         'template_path' => 'template',
