@@ -8,13 +8,13 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Final Fantasy IX',
+        'name' => 'BumbleBees',
         'pretty_uri' => false,
         'site_url' => 'https://csu-php-demo.herokuapp.com',
         'nav_menu' => [
             'home' => 'Home',
             'about-me' => 'About me',
-            'characters' => 'Characters'
+            'facts' => 'Facts'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
