@@ -17,6 +17,7 @@ article {
 nav .item {
     text-decoration: none;
     color: yellow;
+    font-size: x-large;
 }
 nav .active {
     border-bottom: 1px solid;
@@ -25,7 +26,4 @@ nav .active {
 body {
     background-color: rgb(10, 10, 10);
     color: yellow;
-}
-header{
-    font-size: 80;
 }
