@@ -14,7 +14,7 @@
             <?php nav_menu(); ?>
         </nav>
     </header>
-
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhdpzEUPCxP3xqikVYImtcLUtjnRVXxRPCq6pL2ob3qgEIMNyG3w" height="42" width="42">
     <article>
         <h2><?php page_title(); ?></h2>
         <?php page_content(); ?>
