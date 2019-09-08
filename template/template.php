@@ -22,7 +22,7 @@
     </article>
 
     <footer>
-        <small>&copy;<?php echo date('Y'); ?> <?php site_name(); ?>.<br><?php site_version(); ?><p>Buzz Buzz</p></small>
+        <small>&copy;<?php echo date('Y'); ?> <?php site_name(); ?>.<br><?php site_version(); ?><p>Buzz Buzz &#128029;</p></small>
     </footer>
 </div>
 </body>
