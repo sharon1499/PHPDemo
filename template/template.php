@@ -14,8 +14,6 @@
             <?php nav_menu(); ?>
         </nav>
     </header>
-    <img src="https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/adobestock_21730836.jpeg?itok=uSbzpqGq" height="300" width="100%">
-
     <article>
         <h2><?php page_title(); ?></h2>
         <?php page_content(); ?>
