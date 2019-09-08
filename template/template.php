@@ -15,6 +15,7 @@
         </nav>
     </header>
     <img src="https://ec.europa.eu/jrc/sites/jrcsh/files/styles/normal-responsive/public/adobestock_21730836.jpeg?itok=uSbzpqGq" height="300" width="100%">
+    <a href = "about-me.phtml"><img src="https://www.mothersdayclassic.com.au/wp-content/uploads/2018/01/white_me_logo-1.png" height="100%" width="100%">
     <article>
         <h2><?php page_title(); ?></h2>
         <?php page_content(); ?>
