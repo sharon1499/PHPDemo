@@ -31,3 +31,9 @@ body {
 h1{
     font-size: 300%;
 }
+
+ul{
+    list-style-image: url('sqpurple.gif');
+    background-color: black;
+    color: white;
+}
