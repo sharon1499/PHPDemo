@@ -33,7 +33,8 @@ h1{
 }
 
 ul{
-    list-style-image: url('sqpurple.gif');
+    list-style-type:circle;
     background-color: black;
-    color: white;
+    color: yellow;
+    border-color: white;
 }
